@@ -1,5 +1,0 @@
-Digraph{
-	"dce@upf.br" -> { "abc@upf.br" }
-	"abc@upf.br"
-	"teste@upf.br" -> { "dce@upf.br" }
-}
