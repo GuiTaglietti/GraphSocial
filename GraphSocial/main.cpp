@@ -1,4 +1,4 @@
-#include "socialmedia.cpp"
+#include "src/SocialMedia/socialmedia.cpp"
 using namespace socialmedia;
 
 int main(){
