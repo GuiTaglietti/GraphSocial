@@ -2,11 +2,11 @@
 # GraphSocial
 
 ## Visao Geral do Projeto
- - Projeto criado no Sistema Operacional Linux Ubuntu 22.04 (LTS).
+ - Projeto criado originalmente no sistema operacional de distribuição Linux -> Ubuntu 22.04 (LTS).
 
 
  - Projeto de Estrutura de Dados II.
-Universidade de Passo Fundo
+Universidade de Passo Fundo (UPF)
 
 
 ## Instalação
