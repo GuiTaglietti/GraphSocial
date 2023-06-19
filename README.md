@@ -87,6 +87,6 @@ Finaliza o programa.
 
 ## Aprendizados
 
-Aprofundamento avançado no paradigma orientado a objetos em C++;
+Aprofundamento avançado no paradigma orientado a objetos em C++ (Headers, include guards, sobrecarga/remoção de operadores, tipos abstratos, herança, singleton, namespaces, rule of three e entre outros...);
 
 Aprofundamento em algoritmos de grafos/árvores (entre outras estruturas de dados presentes no projeto) para melhor funcionamento da aplicação;
