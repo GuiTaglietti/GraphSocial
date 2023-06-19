@@ -81,8 +81,8 @@ Finaliza o programa.
 
 ## Autores
 
-- [@LucasFriedrich](https://www.github.com/lucasfriedrichh)
 - [@GuiTaglietti](https://www.github.com/GuiTaglietti)
+- [@LucasFriedrich](https://www.github.com/lucasfriedrichh)
 
 
 ## Aprendizados
