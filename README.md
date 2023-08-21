@@ -83,6 +83,7 @@ Finaliza o programa.
 
 - [@GuiTaglietti](https://www.github.com/GuiTaglietti)
 - [@LucasFriedrich](https://www.github.com/lucasfriedrichh)
+- [@JosePRP1](https://www.github.com/josePRP1)
 
 
 ## Aprendizados
